@@ -1,0 +1,14 @@
+.card-holder {
+    margin: 50px 0;
+}
+
+.card {
+    width: 18rem !important;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.color {
+    height: 50px;
+}
+

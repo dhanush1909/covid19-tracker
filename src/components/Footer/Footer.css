@@ -1,0 +1,29 @@
+.footer {
+    color: #9d8c81;
+    margin: 0px auto 0;
+    padding: 10px 0 0px;
+    background: #2d2520;
+    width: 100%;
+}
+
+.footer .wrap {
+    padding: 40px 0;
+}
+
+.wrap {
+    max-width: 960px;
+    margin: 0 auto 0;
+    width: 100%;
+    position: relative;
+}
+
+.text-heading {
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 15px;
+    font-size: 20px;
+}
+
+.footer-content div, .footer-content p{
+    padding: 0 0 5px 10px;
+}
